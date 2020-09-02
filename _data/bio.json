@@ -69,8 +69,8 @@
   "education": [
     {
       "institution": "Aiea High School",
-      "area": "",
-      "studyType": "",
+      "area": "2018",
+      "studyType": "Graduated",
       "startDate": "",
       "endDate": "2018",
       "gpa": "",
@@ -103,9 +103,9 @@
       "company": "Leeward Community College",
       "position": "ICS Tutor",
       "website": "",
-      "startDate": "January 2020",
-      "endDate": "May 2020",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2020",
+      "endDate": "2020",
+      "summary": "",
       "highlights": [
         "Aid all level ICS students to optimize individual learning."
       ]
@@ -150,12 +150,6 @@
       "date": "2018-2020",
       "awarder": "State of Hawaii",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
     }
   ],
   "references": [
