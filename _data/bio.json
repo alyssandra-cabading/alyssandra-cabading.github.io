@@ -69,10 +69,10 @@
   "education": [
     {
       "institution": "Aiea High School",
-      "area": "2018",
-      "studyType": "Graduated",
+      "area": "",
+      "studyType": "",
       "startDate": "",
-      "endDate": "",
+      "endDate": "2018",
       "gpa": "",
       "courses": [
       ]
