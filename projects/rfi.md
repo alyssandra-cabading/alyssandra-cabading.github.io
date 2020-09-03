@@ -4,7 +4,7 @@ layout: project
 type: project
 image: images/RFI.png
 title: Reclaiming Filipinx Identity
-permalink: projects/micromouse
+permalink: projects/rfi
 # All dates must be YYYY-MM-DD format!
 date: 2020-02-01
 labels:
