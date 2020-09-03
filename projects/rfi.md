@@ -15,7 +15,7 @@ labels:
 summary: My team developed a platform for Filipinx and Fil-Am to have their voices heard.
 ---
 <div align = "center">
-  <div class="ui large rounded images">
+  <div class="ui small floated rounded images">
     <img class="ui image" src="../images/rfi-3.png">
   </div>
 </div>
