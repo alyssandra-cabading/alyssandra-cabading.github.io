@@ -9,5 +9,5 @@ permalink: projects/rfi
 date: 2018-01-01
 labels:
   - Web Design
-summary: My partner and I redesigned Aiea High School's AFJROTC website.
+summary: Redesigning Aiea High School's AFJROTC website.
 ---
