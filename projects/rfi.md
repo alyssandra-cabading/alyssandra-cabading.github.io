@@ -26,8 +26,8 @@ summary: My team developed a platform for Filipinx and Fil-Am to have their voic
 
 **The Minds Behind Recaliming Filipinx Identity**
 >_Founder, Director of Operations_—Chachie Abara
->_Audio Producer_ — Jethro Macaraeg
->_Production Coordinator_ — Tiffany Sagucio
->_Graphic Designer/Production Assistant_ — Alyssandra Cabading
+><p> _Audio Producer_ — Jethro Macaraeg
+><p> _Production Coordinator_ — Tiffany Sagucio
+><p> _Graphic Designer/Production Assistant_ — Alyssandra Cabading
 
 
