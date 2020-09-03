@@ -1,4 +1,5 @@
 ---
+draft: true
 layout: project
 type: project
 image: images/cotton-square.png
