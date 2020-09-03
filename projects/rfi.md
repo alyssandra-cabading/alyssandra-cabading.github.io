@@ -14,10 +14,11 @@ labels:
   - Media
 summary: My team developed a platform for Filipinx and Fil-Am to have their voices heard.
 ---
-<div class="ui center large rounded images">
-  <img class="ui image" src="../images/rfi-3.png">
+<div align = "center">
+  <div class="ui large rounded images">
+    <img class="ui image" src="../images/rfi-3.png">
+  </div>
 </div>
-
 Reclaiming Filipinx Identity is an independent Media company that is 100% self funded. 
 
 <p>Since creating a podcast that not only captures narratives for the Filipinx community in Hawaii. We also wanted to branch to a media company to bridge the gap with the many different Filipinos globally by creating an open space for healthy conversation.</p> 
