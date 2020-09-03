@@ -44,7 +44,7 @@ _Podcast Art_
 </div>
 _Instagram_
 <div class="ui small rounded images">
-  <img class="ui gif" src="../images/insta.gif">
+  <gif class="ui gif" src="../images/insta.gif">
   <img class="ui image" src="../images/insta2.jpg">
   <img class="ui image" src="../images/insta3.jpg">
   <img class="ui image" src="../images/insta4.jpg">
