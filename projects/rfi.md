@@ -51,6 +51,9 @@ _Instagram_
   <img class="ui image" src="../images/insta4.jpg">
 </div>
  
-**Source**
-<a href="https://reclaimingfilipinx.wixsite.com/home"><i class="
+**Learn More**
 
+[Youtube Channel](https://www.youtube.com/channel/UCZl2ysSzPtDzDgXSCpr4XZQ?sub_confirmation=1)
+[Instagram](https://www.instagram.com/reclaimingfilipinxidentity/?hl=en)
+[RFI Website](https://reclaimingfilipinx.wixsite.com/home)
+[Podcasts](https://open.spotify.com/show/379URIVL9VEzmXB7WOKJog?si=yfsbxaw9QiqNQQFzSiNFqw)
