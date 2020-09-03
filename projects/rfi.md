@@ -25,10 +25,10 @@ summary: My team developed a platform for Filipinx and Fil-Am to have their voic
 <p>Since creating a podcast that not only captures narratives for the Filipinx community in Hawaii. We also wanted to branch to a media company to bridge the gap with the many different Filipinos globally by creating an open space for healthy conversation.</p> 
 <p>As fellow Kasama and Kababayans, Reclaiming Filipinx Identity continues to create content that will bridge the gap with different issues that is happening to the community by addressing it through series like our 'FIlipinx Mental Health Mukbang' and many more content to follow.</p> 
 
-**The Faces Behind Recaliming Filipinx Identity**
+**The Minds Behind Recaliming Filipinx Identity**
 >_Founder, Director of Operations_—Chachie Abara
-<p>_Audio Producer_ — Jethro Macaraeg</p>
-<p>_Production Coordinator_ — Tiffany Sagucio</p>
-<p>_Graphic Designer/Production Assistant_ — Alyssandra Cabading</p>
+><p>_Audio Producer_ — Jethro Macaraeg</p>
+><p>_Production Coordinator_ — Tiffany Sagucio</p>
+><p>_Graphic Designer/Production Assistant_ — Alyssandra Cabading</p>
 
 
