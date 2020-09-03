@@ -15,12 +15,19 @@ labels:
 summary: My team developed a platform for Filipinx and Fil-Am to have their voices heard.
 ---
 <div align = "center">
-  <div class="ui small floated rounded images">
+  <div class="ui large floated rounded images">
     <img class="ui image" src="../images/rfi-3.png">
   </div>
 </div>
-Reclaiming Filipinx Identity is an independent Media company that is 100% self funded. 
+**Reclaiming Filipinx Identity** is an independent Media company that is 100% self funded. 
 
 <p>Since creating a podcast that not only captures narratives for the Filipinx community in Hawaii. We also wanted to branch to a media company to bridge the gap with the many different Filipinos globally by creating an open space for healthy conversation.</p> 
 <p>As fellow Kasama and Kababayans, Reclaiming Filipinx Identity continues to create content that will bridge the gap with different issues that is happening to the community by addressing it through series like our 'FIlipinx Mental Health Mukbang' and many more content to follow.</p> 
+
+**The Faces Behind Recaliming Filipinx Identity**
+>Founder, Director of Operations—Chachie Abara
+>Audio Producer — Jethro Macaraeg
+>Producation Coordinator — Tiffany Sagucio
+>Graphic Designer/Production Assistant — Alyssandra Cabading
+
 
