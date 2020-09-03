@@ -14,7 +14,7 @@ labels:
   - Media
 summary: My team developed a platform for Filipinx and Fil-Am to have their voices heard.
 ---
-<div class="ui large rounded images">
+<div class="ui center large rounded images">
   <img class="ui image" src="../images/rfi-3.png">
 </div>
 
