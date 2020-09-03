@@ -15,14 +15,10 @@ labels:
 summary: My team developed a platform for Filipinx and Fil-Am to have their voices heard.
 ---
 
-<div class="ui large rounded images">
-    <img class="ui image" src="../images/rfi-3.png">
-</div>
-
+<img class="ui large floated rounded image" src="../images/rfi-3.png">
 
 Reclaiming Filipinx Identity is an independent Media company that is 100% self funded. 
 
- 
-  Since creating a podcast that not only captures narratives for the Filipinx community in Hawaii. We also wanted to branch to a media company to bridge the gap with the many different Filipinos globally by creating an open space for healthy conversation. 
-  As fellow Kasama and Kababayans, Reclaiming Filipinx Identity continues to create content that will bridge the gap with different issues that is happening to the community by addressing it through series like our 'FIlipinx Mental Health Mukbang' and many more content to follow. 
+Since creating a podcast that not only captures narratives for the Filipinx community in Hawaii. We also wanted to branch to a media company to bridge the gap with the many different Filipinos globally by creating an open space for healthy conversation. 
+As fellow Kasama and Kababayans, Reclaiming Filipinx Identity continues to create content that will bridge the gap with different issues that is happening to the community by addressing it through series like our 'FIlipinx Mental Health Mukbang' and many more content to follow. 
 
