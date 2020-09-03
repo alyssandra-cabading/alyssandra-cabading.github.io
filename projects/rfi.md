@@ -14,11 +14,10 @@ labels:
   - Media
 summary: My team developed a platform for Filipinx and Fil-Am to have their voices heard.
 ---
-<div align = "center">
-  <div class="ui large floated rounded images">
-    <img class="ui image" src="../images/rfi-3.png">
-  </div>
-</div>
+ # <div class="ui large floated rounded images">
+ #  <img class="ui image" src="../images/rfi-3.png">
+ # </div>
+<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
 
 **Reclaiming Filipinx Identity** is an independent Media company that is 100% self funded. 
 
@@ -27,8 +26,8 @@ summary: My team developed a platform for Filipinx and Fil-Am to have their voic
 
 **The Minds Behind Recaliming Filipinx Identity**
 >_Founder, Director of Operations_—Chachie Abara
-><p>_Audio Producer_ — Jethro Macaraeg</p>
-><p>_Production Coordinator_ — Tiffany Sagucio</p>
-><p>_Graphic Designer/Production Assistant_ — Alyssandra Cabading</p>
+><p> _Audio Producer_ — Jethro Macaraeg</p>
+><p> _Production Coordinator_ — Tiffany Sagucio</p>
+><p> _Graphic Designer/Production Assistant_ — Alyssandra Cabading</p>
 
 
