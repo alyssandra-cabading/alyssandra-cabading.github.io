@@ -2,7 +2,7 @@
 draft:  false
 layout: project
 type: project
-image: images/hospital.png
+image: images/jhosp.png
 title: Hospital Project
 permalink: projects/javahospital
 # All dates must be YYYY-MM-DD format!
