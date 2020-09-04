@@ -38,13 +38,13 @@ If any of the parameters are not met an exception will be thrown and may look li
 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/e1.png">
-  <img class="ui image" src="../images/e2.jpg">
-  <img class="ui image" src="../images/e3.jpg">
+  <img class="ui image" src="../images/e2.png">
+  <img class="ui image" src="../images/e3.png">
 </div>
 
 >Valid parameters result in the following images provided below.
 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/h3.png">
-  <img class="ui image" src="../images/h4.jpg">
+  <img class="ui image" src="../images/h4.png">
 </div>
