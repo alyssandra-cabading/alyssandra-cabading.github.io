@@ -12,6 +12,8 @@ labels:
 summary: Redesigning Aiea High School's AFJROTC website.
 ---
 
+ <img class="ui image" src="../images/afjrotc.png">
+
 My senior year of highschool I held the position as the Webmaster for Aiea High School’s AFJROTC. At the time, the website included content that was outdated and the aesthetics were fairly generic. My responsibilities were not specified into detail as the goals of the squadron was directed toward other aspects of JROTC. 
 
 With free range as to what changes could be made, I proposed an idea to take on the task of revamping the website. Nevertheless, my proposal was approved and I wholeheartedly made it my goal to make something no one has seen before.
