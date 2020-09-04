@@ -1,5 +1,5 @@
 ---
-draft:  true
+draft:  false
 layout: project
 type: project
 image: images/micromouse.jpg
