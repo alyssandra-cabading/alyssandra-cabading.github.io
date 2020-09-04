@@ -20,4 +20,4 @@ With free range as to what changes could be made, I proposed an idea to take on 
 
 I divided the website into four main sections: the Home Page, About Us, Unit Staff, and Extracurriculars. The Home Page included large pictures, complemented with short anecdotes that caters to the audience's attention. The About Us had details that were originally included with the added touch of related and current pictures of the unit. The Extracurricular included different aspects of AFJROTC: Drill Team, Special Forces Team, and Kitty Hawk. Within these areas, the duties and responsibilities of each section are revealed serving as an informative source for future cadets. The last and most time consuming aspect of this project was the Unit Staff page. For this page, I had to generate an organizational chart for the unit’s chain of command.
 
-See more about[_Aiea AFJROTC_](https://www.aieaafjrotc.com/copy-of-about-us).
+See more about [_Aiea AFJROTC_](https://www.aieaafjrotc.com/copy-of-about-us).
