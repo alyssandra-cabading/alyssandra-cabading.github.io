@@ -45,7 +45,7 @@ If any of the parameters are not met an **exception will be thrown** and may loo
   <img class="ui image" src="../images/h4.png">
 </div>
 
-Here are some lines of code from the Patient Class that checks if the parameters are valid before creating a Patient Object:
+Here are some lines of code from the _Patient Class_ that checks if the parameters are valid before creating a _Patient Object_:
 
 ```js
   public void setTriage(int newTriage) throws PatientException{
