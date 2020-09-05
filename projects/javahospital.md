@@ -38,7 +38,7 @@ If any of the parameters are not met an **exception will be thrown** and may loo
    <img class="ui  image" src="../images/e3.png">
 </div>
 
-**Valid parameters** result in the following images provided below.
+**Valid parameters** will execute the function selected by the user. An example of this is below.
 
 <div class="ui large rounded images">
   <img class="ui image" src="../images/h3.png">
