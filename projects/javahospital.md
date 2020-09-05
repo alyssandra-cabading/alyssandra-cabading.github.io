@@ -32,11 +32,10 @@ A **patient object** is only created when it meets the following parameters:
 
 If any of the parameters are not met an **exception will be thrown** and may look like the following images below.
 
-<div class="ui large rounded images">
-  <div style="center">
-  <img class="ui image" src="../images/e1.png">
-  <img class="ui image" src="../images/e2.png">
-  <img class="ui image" src="../images/e3.png">
+<div class1="ui large right rounded images">
+  <img class1="ui image" src="../images/e1.png">
+  <img class1="ui image" src="../images/e2.png">
+  <img class1="ui image" src="../images/e3.png">
 </div></div>
 
 **Valid parameters** result in the following images provided below.
