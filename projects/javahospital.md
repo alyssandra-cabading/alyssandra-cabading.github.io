@@ -69,6 +69,6 @@ Here are some lines of code from the _Patient Class_ that checks if the paramete
    }
 ```   
 
-For this project, understanding the structure of the system is key in order to have a functioning program that executes every intended functionalities. To assist in this process a **Unified Modeling Language Diagram** better known as a UML Diagram a can be constructed to help visualize the object oriented systems. Essentially within this UML the structure of the system is described by showing the classes, its attributes, its methods, as well as the relationships	among the different objects. Below is a UML Diagram for the _Java Hospital_.
+For this project, understanding the structure of the system is key in order to have a functioning program that executes every intended functionalities. To assist in this process a **Unified Modeling Language Diagram** better known as a UML Diagram can be constructed to help visualize the object oriented systems. Essentially within this UML the structure of the system is described by showing the classes, its attributes, its methods, as well as the relationships	among the different objects. Below is a UML Diagram for the _Java Hospital_.
 
 <img class="ui image" src="../images/h-uml.png">
