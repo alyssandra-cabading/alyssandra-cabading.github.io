@@ -14,7 +14,7 @@ labels:
   - Java
 summary:
 ---
-Java Hospital is a Graphical User Interface that serves as a form of Hospital manage system which enables the user to carry out 6 different functionalites.
+Java Hospital is a Graphical User Interface that serves as a form of Hospital management system which enables the user to carry out 6 different functionalites.
 
 <img class="ui image" src="../images/h1.png">
 
