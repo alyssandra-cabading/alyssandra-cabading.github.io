@@ -69,3 +69,4 @@ Here are some lines of code from the Patient Class that checks if the parameters
       this.triage = newTriage;
    
    }
+```   
