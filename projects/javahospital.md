@@ -14,9 +14,7 @@ labels:
   - Java
 summary:
 ---
- <img class="ui medium right floated rounded image" src="../images/hospital.png">
-
-**Java Hospital** is a Graphical User Interface that serves as a form of Hospital manage system which enables the user to carry out 6 different functionalites.
+Java Hospital is a Graphical User Interface that serves as a form of Hospital manage system which enables the user to carry out 6 different functionalites.
 
 <img class="ui image" src="../images/h1.png">
 
