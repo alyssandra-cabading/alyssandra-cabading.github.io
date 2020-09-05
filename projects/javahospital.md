@@ -45,3 +45,27 @@ If any of the parameters are not met an **exception will be thrown** and may loo
   <img class="ui image" src="../images/h4.png">
 </div>
 
+Here are some lines of code from the Patient Class that checks if the parameters are valid before creating a Patient Object.
+
+public void setTriage(int newTriage) throws PatientException{
+
+```js
+      switch(newTriage){
+         case (1): level = "EXTREMELY Urgent.";
+            break;
+         case (2): level = "HIGH Risk";
+            break;
+         case (3): level = "MEDIUM Risk";
+            break;
+         case (4): level = "LOW Risk";
+            break;
+         case (5): level = "Routine Visit";
+            break;
+         default: 
+            PatientException pe = new PatientException( );
+            pe.setMessage("***The level of triage you entered is not within the range of 1-5.***");
+            throw pe;
+      }
+      this.triage = newTriage;
+   
+   }
