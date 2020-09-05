@@ -9,6 +9,11 @@
 body {
   // background-color: #f2f2f2;;
   background: linear-gradient(to bottom right, antiquewhite, burlywood);
+  height: 100%;
+  margin: 0;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+
 }
 
 // Customize the menubar color
