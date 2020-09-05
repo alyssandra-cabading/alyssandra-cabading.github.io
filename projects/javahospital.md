@@ -47,9 +47,9 @@ If any of the parameters are not met an **exception will be thrown** and may loo
 
 Here are some lines of code from the Patient Class that checks if the parameters are valid before creating a Patient Object.
 
-public void setTriage(int newTriage) throws PatientException{
-
 ```js
+  public void setTriage(int newTriage) throws PatientException{
+
       switch(newTriage){
          case (1): level = "EXTREMELY Urgent.";
             break;
