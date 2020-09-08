@@ -4,11 +4,9 @@
     "label": "Student",
     "picture": "https://alyssandra-cabading.github.io/images/alyssa.png",
     "email": "alyssand@hawaii.edu",
-    "phone": "",
     "website": "https://alyssandra-cabading.github.io",
     "summary": "  I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2022.",
     "location": {
-      "address": "",
       "postalCode": "96782",
       "city": "Pearl City",
       "countryCode": "USA",
@@ -30,24 +28,17 @@
   "interests": [
     {
       "name": "Software Engineering",
-      "keywords": [
-      ]
     },
     {
       "name": "Web Design",
-      "keywords": [
-      ]
     },
     {
       "name": "Graphic Design",
-      "keywords": [
-      ]
     }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "level": "",
       "keywords": [
         "C",
         "C++",
@@ -57,7 +48,6 @@
     },
     {
       "name": "Toolsets/OS",
-      "level": "",
       "keywords": [
         "MacOS",
         "Unix",
@@ -71,11 +61,7 @@
       "institution": "Aiea High School",
       "area": "2018",
       "studyType": "Graduated",
-      "startDate": "",
       "endDate": "2018",
-      "gpa": "",
-      "courses": [
-      ]
     },
     {
       "institution": "Leeward Community College, Pearl City, HI",
@@ -83,7 +69,6 @@
       "studyType": "A.S.",
       "startDate": "2018",
       "endDate": "2020",
-      "gpa": "",
       "courses": [
       ]
     },
@@ -93,7 +78,6 @@
       "studyType": "B.S.",
       "startDate": "2020",
       "endDate": "Present",
-      "gpa": "",
       "courses": [
       ]
     }
@@ -102,10 +86,8 @@
     {
       "company": "Leeward Community College",
       "position": "ICS Tutor",
-      "website": "",
       "startDate": "2020",
       "endDate": "2020",
-      "summary": "",
       "highlights": [
         "Aid all level ICS students to optimize individual learning.",
         "Demonstrates academic competence in subject areas of ICS.",
@@ -117,7 +99,6 @@
       "position": "Intern",
       "website": "http://www.hofhawaii.com/",
       "endDate": "Present",
-      "summary": "",
       "highlights": [
         "Shadow Loan Processors and assist with daily work load to maintain an efficient work environment.",
         "Answer phone/email inquiries, direct calls, and provide basic company information.",
@@ -130,22 +111,8 @@
       "organization": "Reclaiming Filipinx Identity",
       "website": "https://reclaimingfilipinx.wixsite.com/home",
       "position": "Graphic Designer/Production Assistant",
-      "startDate": "",
       "endDate": "Present",
-      "summary": "",
-      "highlights": [
-      ]
     },
-    {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-      ]
-    }
   ],
   "awards": [
     {
@@ -158,7 +125,6 @@
       "title": "Summa Cum Laude",
       "date": "2018",
       "awarder": "State of Hawaii",
-      "summary": ""
     }
   ],
   "references": [
