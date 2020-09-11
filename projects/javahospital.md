@@ -12,8 +12,10 @@ labels:
   - Graphical User Interface
   - JFrame
   - Java
-summary:
 ---
+Java Hospital is a program I have developed as a final project in ICS 211. This program is compiled of different classes and interfaces worked on over a course of a month and half. Fundamentally, it was one of the first big projects I have ever done. The build up took time and a lot of patience. Nevertheless, it was a beneficial learning experience allowing for the application of a variation of coding algorithms. This includes, building upon class interfaces, extending JFrame and exception classes, creating graphical user interfaces, and utilizing double linked lists. Despite such a time-consuming and stress-inducing project, it proved to be an essential learning experience.
+
+## The Anatomy of Java Hospital
 Java Hospital is a Graphical User Interface that serves as a form of Hospital management system which enables the user to carry out 6 different functionalites.
 
 <img class="ui image" src="../images/h1.png">
