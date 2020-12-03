@@ -1,0 +1,104 @@
+## Notes
+What are design patterns?
+What design patterns have you used in your own code?
+
+## Introduction to Design Patterns
+- Arise from trial and error.
+- Example would be roofs over time, what works under different countries/weather.
+- Invented by Christopher Alexander
+- 1994 Gang of Four (c++)
+- Software Development
+    - Show relationship between classes or objects w/o specifying final application classes or objects.
+        - Meaningful descriptor
+        - WHen to apply
+        - Relationships
+        - Trade-offs of using
+    - 3 Types
+        - Creational
+        - Structural
+        - Behavioral
+- Everyone was talking about it!
+- A way for people to use as a template solution
+
+-EXAMPLES
+    - Factory
+        -Recall shape factory
+            - square
+            - rectangle
+            - circle
+        - Return collection of OBJECTS
+        - Additional dependent objects
+        - Disadvantage: Complicated than OO class constructor
+    - Singleton
+        - Intended to support global variable.
+        - Only single instance of that class exist.
+        - Implement lazy initialization and provide global state
+        - Disadvantage: Not thread-safe, global state unwise
+                - not good to have global state
+                   - anti-pattern
+    - Observer
+        - Need to know when the subject changes.
+        - event handler
+        - Subject can maintain collection of observers
+            - they can invoke method
+            - it knows to notify observer
+        - defines one-to-many dependency w/o tight coupling
+            - hard wire names of observer to subject class
+        - disadvantage: race conditions, performance issues, harder to reason and debug
+    - MVC
+        - Model View COntroller
+            - Separate internal rep with how it is presented to the user.
+        - Controller: what is presented to the user.
+        -  specific partitioning of responsibilities.
+        - low coupling & model have multiple views
+        - disadvantages: learning curve
+- Antipatterns
+  - occurring solutions to problems
+  - example: Lava Flow
+      - difficult to manipulate
+
+
+## Design Patterns in Bowfolios
+- Javascript
+  - Prototype
+    - Doesn't use classical instantiation
+    - Copy of prototypical instance
+    - ex: collections
+
+- Meteor
+  - Observer
+    - Maintains a list of dependents & notifies them automatically.
+      -Publish subscribe:
+          - Specify way they want to make data available.
+          - categorize messages into classes without knowledge of which subscribers if any there may be.
+          - Fundamental to meteor how data flow and communication.
+      - Method publish
+      - Reactive Data
+          - MongoDB collection is updated, code referencing a cursor in that collection will be re-run.
+
+    - Publish subscribe & reactive variables (Types of Observers).
+  - MVC
+      - Model: MONGODB
+      - View: Blaze
+      - Controller: Flow router
+        - Front Controller: flow router
+            - get request from client and pass request to corresponding handler
+      - meteor doesn't hard wire.
+
+      - Mongo Collection
+      - View is the pages of website (semantic ui react stuff)
+      - Controller is the ROUTER
+- Bowfolios
+  - Singleton
+    - Global Variable
+        - Consistency Checking
+        - Profile COllection
+            - Singleton: one instance of this class example: export const Profiles...
+  - Factory
+    - Example:  Method define in profile collection.
+        - return dock id for individual profile
+
+
+
+    
+
