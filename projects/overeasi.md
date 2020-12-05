@@ -23,5 +23,5 @@ summary: An Easy Way to Help Hawaii Get Over COVID-19
 #### Landing Page
   <img class="ui centered image" src="../images/landing.png">
 
-You can learn more at the [OverEasi](https://overeasi.github.io/).
+You can learn more at <a href="https://overeasi.github.io/"><i class="large github icon"></i>OverEasi</a>.
 
