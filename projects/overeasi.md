@@ -18,7 +18,7 @@ summary: An Easy Way to Help Hawaii Get Over COVID-19
 
   <img class="ui centered circular image" src="../images/overeasi.png">
 
-**OverEASI** is a web application that I helped create as a team project in ICS 314, Fall 2020, and simultaneously as a Hawaii Annual Coding Challenge solution. This project allowed me to explore the work that goes on to creating a responsive website that is flexible and easy to use.
+**OverEASI** is a web application that I helped create as a team project in ICS 314 (Fall 2020), and simultaneously as a NIC Hawaii chatbot challenge solution for the Hawaii Annual Coding Challenge (HACC) 2020. This project allowed me to explore the work that goes on to creating a responsive website that is flexible and easy to use.
 
 #### Landing Page
   <img class="ui centered medium image" src="../images/landing.png">
