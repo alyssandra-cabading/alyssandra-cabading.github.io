@@ -1,5 +1,5 @@
 ---
-draft:  true
+draft:  false
 layout: project
 type: project
 image: images/overeasi.png
@@ -14,4 +14,4 @@ labels:
   - MongoDB
 summary: An Easy Way to Help Hawaii Get Over COVID-19
 ---
-
+Coming Soon...
