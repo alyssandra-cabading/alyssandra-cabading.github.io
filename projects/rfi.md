@@ -28,6 +28,12 @@ summary: A platform for Filipinos and Fil-Ams to have their voices heard.
 
 >_Production Coordinator_ — Tiffany Sagucio
 
+>_Social Media Manager/Content Coordinator_ — Jasmine Padamada
+
+>_Marketing Analyst_ — Shane Cobacha
+
+>_Graphic Designer_ — Franz Cabuco
+
 >_Graphic Designer/Production Assistant_ — Alyssandra Cabading
 
 ## The Mission Statement

@@ -14,4 +14,7 @@ labels:
   - MongoDB
 summary: An Easy Way to Help Hawaii Get Over COVID-19
 ---
-Coming Soon...
+
+  <img class="ui centered medium circular image" src="../images/overeasi.png">
+
+More Coming Soon...
