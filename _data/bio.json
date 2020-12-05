@@ -117,6 +117,7 @@
   "awards": [
     {
       "title": "Hawaii Annual Coding Challenge (HACC)",
+      "awarder": "Office of Enterprise Technology Services (ETS)",
       "date": "2020",
       "summary": "My team, OverEasi, developed a COVID-19 Chatbot earning us a first place title. See my portfolio for more details."
     },
