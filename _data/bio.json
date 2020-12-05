@@ -23,11 +23,6 @@
         "username": "alyssandra-katrina-cabading",
         "url": "http://linkedin.com/in/alyssandra-katrina-cabading-96a3841b4"
       },
-      {
-        "network": "devpost",
-        "username": "alyssand",
-        "url": "https://devpost.com/alyssand?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav"
-      }
     ]
   },
   "interests": [
@@ -120,6 +115,11 @@
     },
   ],
   "awards": [
+    {
+      "title": "Hawaii Annual Coding Challenge (HACC)",
+      "date": "2020",
+      "summary": "My team, OverEasi, developed a COVID-19 Chatbot earning us a first place title. See my portfolio for more details."
+    },
     {
       "title": "B+ Scholarship",
       "date": "2018-2020",

@@ -12,7 +12,7 @@ labels:
   - Graphic Design
   - Podcast
   - Media
-summary: My team developed a platform for Filipinx and Fil-Am to have their voices heard.
+summary: A platform for Filipinos and Fil-Ams to have their voices heard.
 ---
  <img class="ui image" src="../images/rfi-3.png">
 
