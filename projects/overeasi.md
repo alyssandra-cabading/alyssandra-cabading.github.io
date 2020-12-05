@@ -14,7 +14,7 @@ labels:
   - MongoDB
 summary: An Easy Way to Help Hawaii Get Over COVID-19
 ---
-# The egg is still boiling, more coming soon...
+### The egg is still boiling, more coming soon...
 
   <img class="ui centered medium circular image" src="../images/overeasi.png">
 
