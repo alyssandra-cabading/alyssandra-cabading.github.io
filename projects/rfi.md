@@ -45,7 +45,7 @@ summary: A platform for Filipinos and Fil-Ams to have their voices heard.
 ## My Contributions
 
 _Podcast Art_
-<div class="ui small rounded images">
+<div class="ui centered small rounded images">
   <img class="ui image" src="../images/pod1.jpg">
   <img class="ui image" src="../images/pod4.jpg">
   <img class="ui image" src="../images/pod3.jpg">
@@ -53,7 +53,7 @@ _Podcast Art_
   <img class="ui image" src="../images/pod5.jpg">
 </div>
 _Instagram_
-<div class="ui small rounded images">
+<div class="ui centered small rounded images">
   <img class="ui image" src="../images/insta.gif">
   <img class="ui image" src="../images/insta2.jpg">
   <img class="ui image" src="../images/insta3.jpg">
