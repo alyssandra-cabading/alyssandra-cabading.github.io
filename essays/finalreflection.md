@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 layout: essay
 type: essay
 title: The End Is Here, But Is It Really
