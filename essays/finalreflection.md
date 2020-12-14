@@ -7,8 +7,8 @@ date: 2020-12-18
 labels:
   - Software Engineering
   - Functional Programming
-  - User Interface Frameworks
-  - Agile Project Management
+  - UI Frameworks
+  - Project Management
 ---
 <img class="ui small left square floated image" src="../images/nightDrive.jpg">
 
