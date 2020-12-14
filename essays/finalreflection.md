@@ -10,7 +10,7 @@ labels:
   - UI Frameworks
   - Project Management
 ---
-<img class="ui small left square floated image" src="../images/nightDrive.jpg">
+<img class="ui medium floated image" src="../images/nightDrive.jpg">
 
 ## The Night Drive Back Home
 Do you know that feeling you get after a night out with your friends? You're sitting in the car, windows down with the wind blowing through your hair, the street lights to be the only luminance, while the faint sound of the radio plays. It's such a nostalgic but wistful feeling. You're aware that everything is coming to an end, but you savor those few moments hoping the experience will last. That's how I am feeling about my third semester learning Software Engineering. I have enjoyed multiple aspects of it,but it's all coming to a close and I don't want that experience to end. And I won't let it.
