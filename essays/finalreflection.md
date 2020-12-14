@@ -8,5 +8,6 @@ labels:
   - Software Engineering
   - Functional Programming
   - User Interface Frameworks
-  - 
+  - Agile Project Management
 ---
+
